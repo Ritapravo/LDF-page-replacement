@@ -1,3 +1,5 @@
+//Longest Distance First Page Replacement Algorithm implementation
+
 #include<iostream>
 #include<vector>
 #include<bits/stdc++.h>
