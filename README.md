@@ -23,3 +23,14 @@ Example1: Let us consider above page reference string i.e. 0 1 2 3 0 1 4 0 1 2 3
 ![](https://github.com/Ritapravo/LDF-page-replacement/blob/master/img/im2.jpeg)
 
 Total page faults for above taken reference string will be 8.
+
+
+## Here are the code input/outputs
+
+### Input/Output - 1
+
+![](https://github.com/Ritapravo/LDF-page-replacement/blob/master/img/im3.jpeg)
+
+### Input/Output - 2
+
+![](https://github.com/Ritapravo/LDF-page-replacement/blob/master/img/im4.jpeg)
